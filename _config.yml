@@ -20,7 +20,7 @@ timezone: America/Los_Angeles
 
 title: Jonathan Lam # the main title
 
-tagline: Software Engineer # it will display as the sub-title
+tagline: Software | Game Design # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   The landing page for Jonathan Lam.
@@ -80,7 +80,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/chicken_pixel.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
