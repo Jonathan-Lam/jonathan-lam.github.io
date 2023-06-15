@@ -13,6 +13,7 @@ images:
     column: 3
     text: Image 3
 ---
+[comment]: # Look into Bootstrap for creating image links to project pages
 <div class="container">
 <div class="row">
 <img src="{{page.images[0].path}}" class="col-sm" width="500" height="600">
