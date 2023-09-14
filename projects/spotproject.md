@@ -1,7 +1,6 @@
 ---
 title: SPOT Parking Management
 layout: page
-permalink: /projects/spotproject
 ---
 [Parking Management example image]
 
